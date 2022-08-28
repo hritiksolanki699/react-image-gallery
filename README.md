@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project link [Image-Gallery](https://react-image-gallery-ruddy.vercel.app/).
+Live Website [Image-Gallery](https://react-image-gallery-ruddy.vercel.app/).
 
 ## Available Scripts
 
